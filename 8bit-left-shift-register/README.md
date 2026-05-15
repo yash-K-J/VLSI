@@ -284,7 +284,7 @@ CLK_SIPO = CLK · ENbar
 
 **Layout Breakdown:**
 
-![Layout Breakdown](images/8blsr_layout_breakdown.png)
+![Layout Breakdown](images/8blsr_layout_breakdown.jpeg)
 
 ---
 
